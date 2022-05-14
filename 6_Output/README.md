@@ -10,3 +10,10 @@
 
 # High speed
 ![image](https://github.com/vatsal26/M3_WiperControlSystem/blob/main/6_Output/4.highspeed.png)
+
+# Execution images
+![image](https://github.com/vatsal26/M3_WiperControlSystem/blob/main/6_Output/execution1.png)
+
+![image](https://github.com/vatsal26/M3_WiperControlSystem/blob/main/6_Output/execution2.png)
+
+![image](https://github.com/vatsal26/M3_WiperControlSystem/blob/main/6_Output/execution3.png)
